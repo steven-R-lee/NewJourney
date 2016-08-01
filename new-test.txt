@@ -1,0 +1,2 @@
+This is my first text file that is for test purposes only.
+I'm now ready to start my journey to becoming a Data Scientist - almost.
